@@ -1,0 +1,4 @@
+E:\Project\JobsTest\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.exe
+E:\Project\JobsTest\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.pdb
+E:\Project\JobsTest\FizzBuzz\FizzBuzz\obj\x86\Debug\FizzBuzz.exe
+E:\Project\JobsTest\FizzBuzz\FizzBuzz\obj\x86\Debug\FizzBuzz.pdb
